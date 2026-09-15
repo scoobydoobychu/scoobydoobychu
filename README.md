@@ -2,3 +2,5 @@
 
 
 ## Hi there 👋
+
+My name is Miranda, and I am a student at the University of Rochester :).
